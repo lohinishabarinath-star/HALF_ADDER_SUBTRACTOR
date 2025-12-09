@@ -57,6 +57,16 @@ Full adder
 **Program:**
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+
+Half Adder
+
+<img width="490" height="264" alt="image" src="https://github.com/user-attachments/assets/88961e41-bf25-4c69-bdb1-9dffc394c64d" />
+
+Half Subtractor
+
+<img width="563" height="246" alt="image" src="https://github.com/user-attachments/assets/8ecbba8b-4b22-454f-b521-5fd2f600cb1f" />
+
+Half adder
 ```
 // Half Adder in Verilog
 module half_adder (
@@ -70,6 +80,7 @@ module half_adder (
 
 endmodule
 ```
+Half subtractor
 ```
 // Half Subtractor in Verilog
 module half_subtractor (
@@ -88,11 +99,23 @@ Developed by:LOHINI S
 RegisterNumber:25015038 */
 
 **RTL Schematic**
+
+Half Adder
+
 ![image](https://github.com/user-attachments/assets/15dea46e-759f-4141-9e20-3f28b931c574)
+
+Half Subtractor
+
 ![image](https://github.com/user-attachments/assets/4c0c851a-06bd-492b-9ae0-f9aab87b8620)
 
 **Output/TIMING Waveform**
+
+Half Adder
+
 ![image](https://github.com/user-attachments/assets/3e6d00c6-6317-4c55-89e0-501c2a4f3205)
+
+Half Subtractor
+
 ![image](https://github.com/user-attachments/assets/6d64beae-f10f-42c4-adf2-56ae5cb3c781)
 
 **Result:**
